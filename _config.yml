@@ -30,6 +30,17 @@ url: "https://silencevosh.github.io/" # the base hostname & protocol for your si
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+# Fields minima iuses, but are not defaulted
+author: Silence
+youtube_username: _____
+
+# NOT defualted by jekyll
+# must add these into .html files. Ex footer.html
+copyright: "Silence LLC"
+
+# 50 px high is best for minima
+# title-logo: /images/title-logo.png
+
 # Build settings
 # Used theme minima as base, then removed autoupdates
 # theme: minima
