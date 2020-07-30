@@ -5,7 +5,7 @@ date:   2020-07-21 20:22:32 -0500
 categories: HumanLearnings
 tags: test_tag
 ---
-Ficitional characters constantly hide what matters most to them, by saying or acting different on the surface from what in going on inside. After a husband gets home late from work, his wife says dinner is cold, instead of saying I really wish you would would arrive on time because it would show me you care about the sweat I put into cooking a nice meal. Or a 10-year-old boy, after his bestfriend says toys are for babies, agrees, hiding his pain, hiding the joy that those toys bring him since they allow him to escape his parents shouting at each, escaping into a more beautiful world.  
+Ficitional characters constantly hide what matters most to them, by saying or acting different on the surface from what in going on inside. Example: After a husband gets home late from work, his wife says dinner is cold, instead of saying it makes me sad when you're late because I tell myself you don't care about about the sweat I put into cooking a nice meal. 
 
 Why do they do this?
 
