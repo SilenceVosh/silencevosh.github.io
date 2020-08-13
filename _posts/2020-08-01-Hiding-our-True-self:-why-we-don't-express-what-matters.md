@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hiding our True self: why we don't express what matters"
-date:   2020-08-12 19:10:59 -0500
+date:   2020-08-12 19:10:59 -0400
 categories: HumanLearnings
 tags: communication, likestoriesofold, humanlearning
 ---
