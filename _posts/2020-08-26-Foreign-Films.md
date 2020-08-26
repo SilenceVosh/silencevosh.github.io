@@ -13,4 +13,4 @@ Growing up on Disney and Hollywood films, I wasn't introduced to foreign films u
 I, as someone who is constantly controlled by words and thoughts, love picturing how the knowledge isn't actually in those words. To understand the depth of what's going on, you don't even need the words. You just need to experience the tones, the expressions, the emotions of the film. 
 
 <br>
-To taste a new flavor in life, I will try a new experiment: Put on a Chinese film, without subtitles, and feel my way through the movie.
+To taste a new flavor of life, I will try an experiment: Put on a Chinese film, without subtitles, and feel my way through the movie.
