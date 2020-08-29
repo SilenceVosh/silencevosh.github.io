@@ -23,7 +23,7 @@ She pondered this story for years, and what she concluded...
 
 Every time he thought of his best friend getting married, the only thing that was associated was the weight of his emotion, the intensity. And the only memory his mind offered was the day he put to death a fellow human. 
 
-***
+<p style="text-align: center;"> * * * </p>
 
 Here's the audio:
 [Clipping from This American Life](https://shortcut.thisamericanlife.org/#/clipping/234/2884?_k=acgwsc)

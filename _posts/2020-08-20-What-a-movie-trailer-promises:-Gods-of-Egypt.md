@@ -17,8 +17,7 @@ Other emotions in this movie:
 - wonder, in awe over watching the God battle.
 - humor, likely a lot of status changes, humans acting like gods, gods acting like humans. This kind of humor is very common in superhero movies. (Often done at the expense of real emotion. Instead of allowing sadness arise, the writer throws in a cheap joke.)
 
-<br>
-***
+<p style="text-align: center;"> * * * </p>
 
 My goal here is to better understand movies before watching, by focusing on what emotions will be evoked rather than the movieshelf genres. 'Captain America: The First Avenger' is a very different movie from 'Captain America: Winter Solider'. The first we are going on an adventure, watching this feeble boy become a superhero, the other we are watching a superhero, run for his life verse an evil government while trying to solve a mystery. Same movieshelf genres, completely different emotions evoked.
 
