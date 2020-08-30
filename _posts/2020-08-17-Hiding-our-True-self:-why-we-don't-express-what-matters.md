@@ -2,8 +2,8 @@
 layout: post
 title:  "Hiding our True self: why we don't express what matters"
 date:   2020-08-17 11:10:59 -0500
-categories: HumanLearnings
-tags: communication, likestoriesofold, humanlearning
+category: 
+tags: humanlearnings
 ---
 My biggest lesson during this journey to become a writer: Fictional characters constantly hide what matters most to them, by saying or acting differently on the surface from what is going on inside. For example, after a husband gets home late from work, his wife says dinner might be cold, instead of saying it makes me sad when you're late because I tell myself you don't care about the sweat I pour into cooking a nice meal. Or instead a 10-year-old boy, after his friend says toys are for babies, agrees, suppressing the joy and the belonging he feels when playing with toys.
 

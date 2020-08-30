@@ -2,8 +2,8 @@
 layout: post
 title:  "Externalize, Ripple, & specifically Justify to a root cause"
 date:   2020-08-24 07:10:59 -0500
-categories: WritingMentalModels
-tags: mistakesmade, storycreation
+category: 
+tags: writingmentalmodels
 ---
 My coach grilled me last call. Currently, I'm trying to get a handle on the problem that is taking over my character's life, more specifically how that problem is ruining his relationship with his lovely girlfriend. My coach said to forget all the concepts, all the ideas, and let my mind create interactions between the two of them. She said when I do that I have it and am able to produce great material. 
 

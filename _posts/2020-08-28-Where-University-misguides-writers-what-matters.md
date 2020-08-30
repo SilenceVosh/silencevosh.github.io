@@ -2,8 +2,8 @@
 layout: post
 title:  "Where University Misguides Writers: what matters."
 date:   2020-08-28 07:10:59 -0500
-categories: WritingMentalModels
-tags: whatmatters
+category: 
+tags: writingmentalmodels
 ---
 
 To control what the audience doesn't see, you first and foremost must be in tune with your story, specifically what truly matters in your story. 

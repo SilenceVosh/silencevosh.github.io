@@ -2,8 +2,8 @@
 layout: post
 title:  "Lucilla in Gladiator, what emotion is her storyline evoking?"
 date:   2020-08-23 14:00:00 -0500
-categories: StoryBlink
-tags: emotions, elementalgenres
+category: 
+tags: storyblink
 ---
 Lucilla is Commodus's sister. Although it's unspoken, she's completely under his control. 
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "When something isn't working, have the opposite happen."
 date:   2020-08-19 07:10:59 -0500
-categories: Mistakes
-tags: hacks, learnings
+category: 
+tags: mistakes&fixes
 ---
 Recently, I was talking a scene out with my coach. The pieces were all known, but the scene wasn't quite working. The events of the scene weren't changing my character internally like we wanted.
 

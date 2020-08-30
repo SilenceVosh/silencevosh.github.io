@@ -2,8 +2,8 @@
 layout: post
 title:  "Conflicting Moral Decisions"
 date:   2020-09-02 07:10:59 -0500
-categories: StoryBlink
-tags: conflcitingmoraldecisions
+category: 
+tags: storyblink
 ---
 
 The show DARK on Netflix has so many of conflict moral decisions. Constantly, a character is forced to choose between two conflicting paths in life, each stress a different moral decision. 

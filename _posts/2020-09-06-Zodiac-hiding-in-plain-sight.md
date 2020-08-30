@@ -2,7 +2,7 @@
 layout: post
 title:  "Zodiac: hiding in plain sight"
 date:   2020-09-06 07:10:59 -0500
-categories: Review
+category: 
 tags: likestoriesofold
 ---
 

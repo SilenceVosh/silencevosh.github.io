@@ -2,8 +2,8 @@
 layout: post
 title:  "Emotional Register: Wedding Speech"
 date:   2020-08-30 07:10:59 -0500
-categories: WritingConcepts
-tags: humanpsyche
+category: 
+tags: humanlearnings, writingconcepts
 ---
 
 On a podcast, Elizabeth Gilbert talked about an emotional register, and I've found this idea, not only a fascinating insight into humans, but quite illuminating for fiction writing. 

@@ -2,8 +2,8 @@
 layout: post
 title:  "Lack of control over our future."
 date:   2020-09-03 07:10:59 -0500
-categories: Blink
-tags: freewill
+category: 
+tags: storyblink, humanlearnings
 ---
 
 Because it is...

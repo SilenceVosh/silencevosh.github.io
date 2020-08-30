@@ -2,8 +2,8 @@
 layout: post
 title:  "What makes me laugh #2"
 date:   2020-09-05 07:10:59 -0500
-categories: HumorBlink
-tags: linguistichumor, humor
+category: 
+tags: humorblink
 ---
 
 Okay, too many questions and too much theory and too much posting about how evil men could be seen in a beautiful light and about how I too would be conflicted about whether or not to save someone from ODing. Let's laugh.

@@ -2,8 +2,8 @@
 layout: post
 title:  "Stories controlling what your mind doesn't see: Science-Fiction and Fantasy"
 date:   2020-08-29 07:10:59 -0500
-categories: WritingThoughts
-tags: writingthoughts, hidinginplainsight
+category: 
+tags: writingmentalmodels
 ---
 
 Another captivating way stories convey information, without our minds turning on and questioning it, is by the setting or the genre. 

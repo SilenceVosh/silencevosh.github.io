@@ -2,8 +2,8 @@
 layout: post
 title:  "Weird Science"
 date:   2020-08-27 07:10:59 -0500
-categories: Blink
-tags: communication, storyreview
+category: 
+tags: storyblink
 ---
 
 When I browsed trailers, this movie kept showing up because of a 30th-year anniversary. It's an eighties cult movie with an over the top comical premise which carries us through the movie, laughing and shaking our heads the whole way. What if two teenage boys had a beautiful model as a slave? 

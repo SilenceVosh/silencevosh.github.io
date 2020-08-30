@@ -2,8 +2,8 @@
 layout: post
 title:  "What makes me laugh #1"
 date:   2020-08-18 11:10:59 -0500
-categories: HumorBlink
-tags: humorblink, whatmakesmelaugh
+category: 
+tags: humorblink
 ---
 Show: The Good Place
 

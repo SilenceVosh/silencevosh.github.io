@@ -2,8 +2,8 @@
 layout: post
 title:  "Understanding scenes on the fly: rapid scene study."
 date:   2020-09-01 07:10:59 -0500
-categories: WritingMentalModels
-tags: scenestudy, questionsToAskMyself
+category: 
+tags: writingmentalmodels
 ---
 
 Recently I crossed a threshold in my understanding of how scenes work, an understanding of scene underpinnings. After hundreds of hours, I've figured this out so deeply that I can, while watching a show or a movie,  in real time see the building blocks of these scenes on the fly. This is a superpower, since every scene I consume, I gain associations for scenes in my own story. 

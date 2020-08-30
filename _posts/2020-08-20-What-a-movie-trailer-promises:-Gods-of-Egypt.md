@@ -2,8 +2,8 @@
 layout: post
 title:  "What a movie trailer promises: Gods of Egypt"
 date:   2020-08-20 07:10:59 -0500
-categories: TrailerBlink
-tags: elementalgenre, storyreview
+category: 
+tags: storyblink
 ---
 [![](http://img.youtube.com/vi/IJBnK2wNQSo/0.jpg)](http://www.youtube.com/watch?v=IJBnK2wNQSo "Gods of Egypt")
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "Foreign Films"
 date:   2020-08-26 07:10:59 -0500
-categories: Blink
-tags: intuition
+category: 
+tags: humanlearnings, theMuse
 ---
 
 Talking with an Argentine movie lover, he told me, he refuses to watch a movie that's dubbed into Spanish. "It's loses all its flavor," he said.

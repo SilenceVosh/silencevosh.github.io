@@ -2,8 +2,8 @@
 layout: post
 title:  "Conflicting Moral Decisions #2"
 date:   2020-09-04 07:10:59 -0500
-categories: StoryBlink
-tags: conflcitingmoraldecisions
+category: 
+tags: storyblink
 ---
 
 In Breaking Bad, a scene that forever scarred me is based in a moral conflict. 

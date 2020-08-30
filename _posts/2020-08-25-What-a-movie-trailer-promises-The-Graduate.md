@@ -2,8 +2,8 @@
 layout: post
 title:  "What a movie trailer promises: The Graduate"
 date:   2020-08-25 07:10:59 -0500
-categories: TrailerBlink
-tags: storyreview, anticipation, settingExpectations
+category: 
+tags: storyblink
 ---
 
 [![](http://img.youtube.com/vi/6KnSucVko1s/0.jpg)](http://www.youtube.com/watch?v=6KnSucVko1s "The Graduate")

@@ -2,8 +2,8 @@
 layout: post
 title:  "intuition: how to use it as a writer intro"
 date:   2020-08-31 07:10:59 -0500
-categories: WritingMentalModels
-tags: scenestudy, questionstoaskmyself, humanlearning
+category: 
+tags: writingmentalmodels, humanlearnings, theMuse
 ---
 
 Lately, I've thought a lot about intuition out of nessesity. For a little over a year, I have been in a relationship with a beautiful women. And although I love her deep and dearly, doubts and thoughts constantly cloud my relationship to her. So, to combat these, I've been working toget more in touch with intuition, and quite frankly wondering what the hell it is.
