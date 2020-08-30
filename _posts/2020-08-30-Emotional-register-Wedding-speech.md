@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emotional Register: Wedding speech"
-date:   2020-08-30 11:10:59 -0500
+date:   2020-08-30 07:10:59 -0500
 categories: WritingConcepts
 tags: humanpsyche
 ---
