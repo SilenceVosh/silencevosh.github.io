@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Emotional Register: Wedding Speech"
+title:  "Emotional Register: A Wedding Speech"
 date:   2020-08-30 07:10:59 -0500
 category: 
 tags: humanlearnings, writingconcepts
