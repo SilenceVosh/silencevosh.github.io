@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Emotional Register: Wedding speech"
+title:  "Emotional Register: Wedding Speech"
 date:   2020-08-30 07:10:59 -0500
 categories: WritingConcepts
 tags: humanpsyche
 ---
 
-Elizabeth Gilbert talked about an emotional register, and I've found this idea, not only interesting part of humans, but quite illuminating for fiction writing. 
+On a podcast, Elizabeth Gilbert talked about an emotional register, and I've found this idea, not only a fascinating insight into humans, but quite illuminating for fiction writing. 
 
 Here's her telling the story (original audio included at the bottom):
 
@@ -21,9 +21,9 @@ She pondered this story for years, and what she concluded...
 
 > Ultimately, I've decided that I get it. I've heard it said before that the human psyche cannot always tell the difference between good events and bad events. All we can feel is the tremor of the earth. Which is what happened to our best man, I believe. He was so overcome by happiness for his friend and he was so out of touch with his emotions that he couldn't express that happiness appropriately. All he could do was remember the last time he had felt so moved by something, and so he tried to express that.
 
-Every time he thought of his best friend getting married, the only thing that was associated was the weight of his emotion, the intensity. And the only memory his mind offered was the day he put to death a fellow human. 
+When he thought of his best friend getting married, he had no relatable thoughts. The only thing his mind presented him was compared in emotional weight. So he tried to express that emotion in the only way he could, by telling about that fateful day when he decided to put a fellow human to death.
 
 <p style="text-align: center;"> * * * </p>
 
-Here's the audio:
+The audio:
 [Clipping from This American Life](https://shortcut.thisamericanlife.org/#/clipping/234/2884?_k=acgwsc)
