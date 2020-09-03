@@ -6,8 +6,8 @@ category:
 tags: storyblink
 ---
 
-The show DARK on Netflix has so many of conflict moral decisions. Constantly, a character is forced to choose between two conflicting paths in life, each stress a different moral decision. 
+The show DARK on Netflix constantly forces characters into conflicting moral decisions, where they must choose between two conflicting paths in life, each path stressing a different moral decision. 
 
-One scene in particular comes to mind. Jonas the protagonist, who's seeking to save the world by destroying time travel, re-unites with the love of his life, after many pains and struggles. A few hugs later, his future-self walks into the house and tells him, she must die in order to save the world.Young-Jonas still swears he would never do that. Nevertheless he learns if he doesn't -- no one survives. Although he believes he won't, we know he will. And we approach that moment with dread, not wanting to believe it's true. 
+One scene in particular comes to mind. Jonas the protagonist, who seeks to save the world by destroying time travel, re-unites with the love of his life, after many pains and struggles. A few hugs later, his time-traveling future-self walks into the house and tells him, that she must die right now in order to save the world at the hand of young-Jonas. Now he's presented with two paths and a decision. Young-Jonas still swears he would never do that, even having learned if he doesn't -- no one survives. Although he believes he won't, we know he will. And we approach that moment with dread, not wanting to believe it's true. 
 
-This difference between who we are and who we think we are is horrifying. It feels like a lack of control over our own decisions — because it is...
+This difference between who we think we are (someone who would choose love over everything) and who we are (someone who will quickly abandon and destroy that love if it means survival) is horrifying. It feels like a lack of control over our own decisions — because it is...
