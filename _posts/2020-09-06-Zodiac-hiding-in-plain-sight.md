@@ -16,7 +16,7 @@ Zodiac is a 2007 film that follows a cartoonist, a news reporter, and a detectiv
 
 This film plays with the viewer, knowing the viewer comes into these mystery films with certain expectations and certain story beats. First off, they give us a promise very early in the movie. The killer sends a code to be deciphered, and the viewer is given this code. 
 
-![image info](https://raw.githubusercontent.com/SilenceVosh/silencevosh.github.io/master/images/Zodiac.png "Zodiac Riddle")
+![image info](https://raw.githubusercontent.com/SilenceVosh/silencevosh.github.io/master/_posts/assets/images/Zodiac.png "Zodiac Riddle")
 
 We've been promised this is going to be a grand puzzle. Us verse the serial killer. Let's stay aware and find those subtle hidden clues. The movie leans on this, citing old stories about the most dangerous game and more riddles. After your expectations are planted, the story starts to interweave obvious clues, that hint how the zodaic killer right here in front of you. But it's too simple of a solution in this complex puzzle. It's not satisfying. So, naturally, we reject it. 
 
