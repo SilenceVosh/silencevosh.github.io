@@ -8,10 +8,8 @@ tags: storyblink, humanlearnings
 
 Because it is...
 
-When Jonas makes the decision to kill the love of his life it's a lack of control over our own actions. That's absolutely horrifying. DARK constantly presents this theme: everything is determined, no matter how much you believe you have freewill and act with freewill. It's still all determined. Even though that's horrible to think about, experiencing this along with the characters has been liberating. 
+When Jonas makes the decision to kill the love of his life it's a lack of control over his own actions. That's absolutely horrifying. DARK constantly presents this theme: everything is determined, no matter how much you believe you have free will. And even no matter how it feels and appears you have free will, it's still all determined. At first that appears to be tragic and sad. Experiencing this, however, experiencing this contradiction of feeling like you're acting with free will yet this is already determined been liberating. 
 
-What was profound is experiencing these moment both as already determined and as with freewill. The predicted events of the show always happen like they should, reenforcing everything is determined. Yet moment to moment, we all truly are trying to do what we believe is best. We all are acting with freewill. 
+The predicted events of the show always happen as they should, reenforcing everything is determined. Yet moment to moment, we all truly are trying to do what we believe is best. We all are acting with free will. All we can do is what we think is right, then get out of our way. No character is ever doing something that they don't believe is the right action. They act guided by invisible forces, and whatever happens, happens. 
 
-All we can do is what we think is right, then get out of our way. Whatever happens, happens. Living with no regrets. That's the ideal life, no matter how it ends.
-
-That's what each of us strives for in our forever misguided ways. Even the wrost amung us believe they are doing the right thing. And although it's completely misguided, sad, horrifying, fustrating, they are trying their best. We are all trying our best. All in this together.
+Each of us, in our forever misguided ways, is trying. Even the worst among us believe they are doing the right thing. And although it's completely misguided, sad, horrifying, frustrating, they too are trying their best. We are all in this together.
