@@ -11,4 +11,4 @@ Okay, too many questions and too much theory and too much posting about how evil
 
 In the opening of the movie Kiss, Kiss, Bang, Bang, one character is bantering with his gay friend, and says, "But when you see a naked guy, your brain says, 'I want that.' I don't make that leap. It's like, Look, there's an elephant. Quick let's drain its blood to paint my boathouse. It's just that that's not the first thing you think of."
 
-This is great linguistic humor.
+This is terrific linguistic humor.
