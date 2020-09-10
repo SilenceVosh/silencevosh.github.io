@@ -9,7 +9,7 @@ For the last four months, perhaps longer, every time I submitted a scene, my coa
 
 Every time I had left a call, I took her words and tried to understand what exactly she was expressing to me. Why is she saying there are no consequences? Clearly, the consequences I see are not what she's referring too. Or why is the phrase "There's no there, there." coming to her mind? What does that even mean. And even when said most directly like that, I sought external events in my character's life, created external events. And believing I figured out what she was expressing, I eagerly submitted my next scene, only to learn my understanding was wrong. I had to start again. Why does this phrase come to her mind...?
 
-Well, four months later, I'm eagerly blogging about it because ~~I believe~~ I finally understand.
+Well, a lot of tears and sweat later, I'm eagerly blogging about it because ~~I believe~~ I finally understand.
 
 <br>
 The answer came in an image. During our last call, my coach said, "Your character is lacking a road, a journey. And these scenes that you have provided aren't affecting that road in any way." A picture flashed in my head. My character on his deathbed, looking back on his life. What does he see? And what the hell does this picture that's presenting itself have to do with my problem?
