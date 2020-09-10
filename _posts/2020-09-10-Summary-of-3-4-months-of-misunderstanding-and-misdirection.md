@@ -24,6 +24,6 @@ That's it. That's what I'm lacking, in every one of my scenes. She says all my s
 
 There's never consequence, never cause/effect because my scenes aren't causing that life's purpose to zig and to zag. Instead, they are floating up to space, never to be thought about again.
 
-***
+<p style="text-align: center;"> * * * </p>
 
 I'm going to apologize for the series. First off, it's going to be a difficult one to get into words. There's a difference in finally understanding and fully understanding. I want to bridge that gap. Second, this series will become repetitive. This was a fundamental blindness, where my coach was telling me what I needed over and over, yet I read into the words a whole other meaning. I want to explore different attempts of understanding that meaning -- how I was misreading it, how I could have understood it with her words altered slightly, and how I understand it now and will apply it going forward.
