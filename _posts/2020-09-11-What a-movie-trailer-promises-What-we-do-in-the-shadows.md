@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What a movie trailer promises: What we do in the shadows"
+title:  "What a movie trailer promises: What We Do in the Shadows"
 date:   2020-09-11 07:10:59 -0500
 category: 
 tags: storyblink
