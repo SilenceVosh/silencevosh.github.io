@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eyes Wide Shut Blinks: the mask scene."
+title:  "Eyes Wide Shut: the mask scene."
 date:   2020-09-12 07:10:59 -0500
 category: 
 tags: storyblind
