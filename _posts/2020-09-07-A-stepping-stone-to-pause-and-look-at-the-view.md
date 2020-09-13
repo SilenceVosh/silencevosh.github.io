@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A stepping stone to pause and look at the view."
+title:  "a stepping stone to pause and look at the view."
 date:   2020-09-07 07:10:59 -0500
 category: 
 tags: generalblink
