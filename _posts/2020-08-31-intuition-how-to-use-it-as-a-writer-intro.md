@@ -3,7 +3,7 @@ layout: post
 title:  "intuition: how to use it as a writer | intro"
 date:   2020-08-31 07:10:59 -0500
 category: 
-tags: writingmentalmodels, humanlearnings, theMuse
+tags: writingmentalmodels, humanlearnings, intuition_series
 ---
 
 Lately, out of necessity, I've thought a lot about intuition. For a little over a year, I have been in a relationship with a beautiful woman. And even though I love her deep and dearly, doubts and thoughts constantly cloud my relationship to her. So, to combat these, I'm working to get more in touch with intuition, and quite frankly wondering what the hell it is.

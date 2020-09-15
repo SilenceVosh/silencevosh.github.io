@@ -3,7 +3,7 @@ layout: post
 title:  "intuition: this blog"
 date:   2020-09-13 07:10:59 -0500
 category: 
-tags: professionalwriter
+tags: professionalwriter, intuition_series
 ---
 For at least 4 years, I've wanted to start a blog. My good friend, who was the inspiration for this, blogged every day, more as a commitment to himself than as a blog. See, the word blog has so many meanings and rules and restrictions in my head. A blog should be united around a theme, I thought. It should be quality over quantity. Each post must contain a value for the reader and be well-written. All of those preventing me from starting. I needed to strip the meaning, strip that word from my mind, and think of it differently. 
 
