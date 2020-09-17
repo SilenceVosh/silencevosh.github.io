@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting the tone: Vikings"
+title:  "Setting the Tone: Vikings"
 date:   2020-09-18 07:10:59 -0500
 category: 
 tags: storyblink
@@ -11,6 +11,6 @@ A few of the Vikings who we've been following and have grown to like arrive on a
 
 That's a promise. We are watching a show of savages. Get used to it or move on.
 
-***
+<p style="text-align: center;"> * * * </p>
 
 A final note: pay close attention to the first couple scenes of anything you watch, anything you read, and you will see these promises. In Indiana Jones, the movie opens with Harrison Ford running from a boulder. After they promised this adventure, they  cut to him in a college to set up the real adventure. And in Game of Thrones, the show opens with a scene showing the white walkers. We won't see them again until the last 10 second scene, showing their army approaching.

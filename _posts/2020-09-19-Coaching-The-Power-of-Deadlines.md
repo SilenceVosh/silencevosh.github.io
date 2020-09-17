@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coaching: The power of deadlines"
+title:  "Coaching: The Power of Deadlines"
 date:   2020-09-19 07:10:59 -0500
 category: 
 tags: professionalwriter
