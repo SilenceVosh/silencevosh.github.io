@@ -5,14 +5,17 @@ date:   2020-09-19 07:10:59 -0500
 category: 
 tags: professionalwriter
 ---
-For three months now, I have been working with a Story coach and it's changed the way I manage my writing. 
+Ever since I started working with a story coach, it has changed the way I manage my writing. 
 
-Every three weeks, I take a call with her and she reviews my progress of my current novel. This create a deadline that I've worked on consistently for 5 months now. And in turn necessity is curated. I am forced to create a system for processing coaching notes, for deciding what to work on, for managing what to work on (writing, research, digging up scene details), for keeping track of mistakes and learnings — for becoming a professional writer. If I can't figure out how to do that, I'm just wasting my money...and what better motivator is there than that.
+Starting back in February, each thrid week, she reviews and we discuss my recent progress on my current novel. Each third week, a deadline, a manuscript due. Forced out of necessity, I've designed a system to manage this, a system for processing coaching notes, for deciding what to work on, for managing what to work on (writing, research, digging up scene details), for keeping track of mistakes and learnings. A system for becoming a professional writer. 
 
-I remember, after my first call, I had a dozen different things to work on. Completely lost what to start with. With no system, they all floating around my head, never allowing me to be immsered in the task at hand. In the end, I did the bare minimum on each. I was unstatisfied. Money wasted. 
+I remember, after my first call, I had a dozen different things to work on. Completely lost what to start with. With no system, they all floating around my head, never allowing me to be immersed in the task at hand. In the end, I did the bare minimum on each. I was unsatisfied. And learned, if I'm unable to figure a system out, I'm just wasting my money...and what better motivator is there than that.
 
-Then, the next week, I had another dozen. I spun my wheels some more. I wasn't creating anything with substance. Money wasted.
+The next week, I had another dozen things to work on. I spun my wheels some more. I created nothing with substance. Money wasted.
 
-Until one day, enough spinning in place, enough unstatisfaction, and enough little tweeks each time, I created a system filled with value. And now I can't see myself not working with a coach.
+I chugged forward, learning manuscript by manuscript, how to do each slightly better. Until one day, enough spinning in place, enough unsatisfaction, and enough little tweaks, I suddenly had a system filled with value. 
 
-Keep spinning, you.
+This would have been impossible without deadlines, I believe. 
+
+<br>
+Keep spinning, you. 

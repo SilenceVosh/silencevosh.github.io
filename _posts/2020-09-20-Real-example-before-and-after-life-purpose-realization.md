@@ -34,6 +34,4 @@ To arrive at the above, I actually sketched a doodle out to guide me. Imagining 
 
 ![image info](https://raw.githubusercontent.com/SilenceVosh/silencevosh.github.io/master/_posts/assets/images/ArtClass.jpeg "Life's Purpose")
 
-Just something I've been playing around with as of late. 
-
-I'm a child.
+Just something I've been as of late childishly playing around with. 
