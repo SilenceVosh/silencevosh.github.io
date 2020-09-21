@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Real Example: before and after life purpose realization"
+title:  "Manuscript Example: life purpose | before and after the realization"
 date:   2020-09-20 07:10:59 -0500
 category: 
 tags: professionalwriter, lifespurpose_series
