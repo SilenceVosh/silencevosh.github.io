@@ -5,7 +5,7 @@ date:   2020-09-14 07:10:59 -0500
 category: 
 tags: likestoriesofold
 ---
-In the first season of Westworld, towards the end, one of the main characters, Benerad, finally confronts the past memory of his son dying. Throughout the whole season, this memory revisited him again and again, yet it was too painful to let fully play out. Every time it arose, he ran away. Until finally, he gets the strength he needs to face it and relive it. What happens is an incredible scene and an idea that I see a lot in stories and life.
+In the first season of Westworld, towards the end, one of the main characters, Bernard, finally confronts the past memory of his son dying. Throughout the whole season, this memory revisited him again and again, yet it was too painful to let fully play out. Every time it arose, he ran away. Until finally, he gets the strength he needs to face it and relive it. What happens is an incredible scene and an idea that I see a lot in stories and life.
 
 Once he relives it -- he breaks into the other side. Suddenly previous memories which he used to be blind to he can remember, memories that he didn't know existed. The memory of his son dying was so overwhelming that he was unable to experience anything else. But he did what we must do, he faced the trauma, he relived it, accepted it instead of suppressing it.
 

@@ -12,4 +12,4 @@ Tom Cruise finds out about a secret sex society from his friend who plays music 
 After a while, he's asked to go to a certain room. As he enters this is awaiting him:
 ![image info](https://raw.githubusercontent.com/SilenceVosh/silencevosh.github.io/master/_posts/assets/images/EyesWideShut.jpg "Horror, as you walk into the room knowing you're exposed")
 
-A huge pleasure exchange, going from the highest high, to the lowest low. He's questioned and quizzed and exposed. Told to get naked in front of everyone. He's completely helpless. These elites could make him disappear with the snap of their fingers. It's horrifying. 
+A huge pleasure exchange, going from the highest high to the lowest low. He's questioned and quizzed and exposed. Told to get naked in front of everyone. He's completely helpless. These elites could make him disappear with the snap of their fingers. It's horrifying. 

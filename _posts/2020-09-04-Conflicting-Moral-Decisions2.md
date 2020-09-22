@@ -8,7 +8,7 @@ tags: storyblink
 
 In Breaking Bad, a scene that forever scarred me is based in a moral conflict. 
 
-Walter, who transforming into a major meth dealer, visits his much younger partner's house. Jessie is like a son to Walter. Recently though he has been struggling with heroin addiction, and Walter feels responsible for his happiness. 
+Walter, who transforms into a major meth dealer, visits his much younger partner's house. Jessie is like a son to Walter. Recently though he has been struggling with heroin addiction, and Walter feels responsible for his happiness. 
 
 Jessie fell back into addiction after meeting a neighbor girl. Quickly, she found out about a pile of money that Walter has of Jessie's which with good intentions he was protecting for Jessie until he's well. She loses control and makes all these crazy threats about ratting him out and calling the cops and such unless Walter hands over the money. Walter painfully does so, but that night, he returns to set things right and to work it out with Jessie.
 

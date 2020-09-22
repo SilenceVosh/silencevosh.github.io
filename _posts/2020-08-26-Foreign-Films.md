@@ -6,7 +6,7 @@ category:
 tags: humanlearnings, theMuse
 ---
 
-Talking with an Argentine movie lover, he told me, he refuses to watch a movie that's dubbed into Spanish. "It's loses all its flavor," he said.
+Talking with an Argentine movie lover, he told me, he refuses to watch a movie that's dubbed into Spanish. "It loses all its flavor," he said.
 
 Growing up on Disney and Hollywood films, I wasn't introduced to foreign films until 'Crouching Tiger, Hidden Dragon' became famous, and even then as an egotistical high schooler I wondered why in the world would someone watch a movie that wasn't in English. 
 
