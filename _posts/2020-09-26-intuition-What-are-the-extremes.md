@@ -13,7 +13,7 @@ In my own experience, I remember seeing this personality often in salsa classes.
 
 Their thinking is too rigid to go with the flow of the moment. The teacher gave them rules, and they are unable to think outside that.
 
-Also, on this side of the spectrum, this type of person tends to be out of touch with their emotions. This results in a hard time making decisions. "People who have been injured in an area of the brain that emotions are generated often have difficulty making decisions." - [(big think article)] ([https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making)) 
+Also, on this side of the spectrum, this type of person tends to be out of touch with their emotions. This results in a hard time making decisions. "People who have been injured in an area of the brain that emotions are generated often have difficulty making decisions." - [big think article](https://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making)
 
 This bigthink article goes on, saying we make decisions based on emotions, not logic. So, this side of the spectrum will linger in indecision, unable to feel what's right, what they desire to do. Sometimes for hours, unable to decide to wear a light green tie or a dark green tie. 
 
