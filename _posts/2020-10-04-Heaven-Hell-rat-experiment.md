@@ -5,12 +5,12 @@ date:   2020-10-04 07:10:59 -0500
 category: 
 tags: humanlearnings
 ---
-I'm going to complete the week here, by rolling out one last post. I've enjoyed this way of working and perhaps I experiment more with this. Every so often, without much of a plan see where my fingers take me in the course of 7 posts. Instead of my morning pages, it's my weekly pages.
+To complete the week here, I'll roll out one last post on this goal-setting subject. I wrote this week as a string of posts in one sitting. I've enjoyed working this way and perhaps I experiment more with this. Instead of my morning pages, it's my weekly pages.
 
 <br>
 
-Two of the most powerful questions in writing: what does my character want? what does he fear?
+Two of the most powerful questions in writing: What does my character want? What does he fear?
 
-In Affective Neuroscience, there's a rat experiment which is testing motivations. The experimenters attached the rat's tail to a spring and depending on how hard he pulls, there's a reading of how motivated he was. The first experiment, the door opens and a piece of cheese is in front of him, he runs towards it and experiences resistance form the spring. But then, the experiments introduce a wiff of cat dander. This combination of a heaven and a hell caused the rat to be super motivated to pull the spring.
+In Affective Neuroscience, there's a rat experiment to learn about motivations. The experimenters attached a rat's tail to a spring and depending on how hard he pulls, there's a reading of how motivated he was. For the first experiment, the door opens and a piece of cheese is in front of him; he runs towards it, experiencing resistance form the spring. His motivation for the cheese is recorded. Next, the experiments introduce a whiff of cat dander. This combination of a heaven and a hell caused the rat to become a beast, yanking on the spring. He's super motivated and energized.
 
-And I think this is why these two questions some up so much of a character. We get to explore both his desires, his heavens, and his fears, his hells.
+I think this is why these two questions always provide rich information. When asked, we explore both the character's desires, his heavens, and his fears, his hells. We get a sense of what is breathing life into him.
