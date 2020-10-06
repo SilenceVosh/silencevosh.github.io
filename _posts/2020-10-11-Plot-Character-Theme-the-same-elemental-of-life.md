@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plot/Character/Theme the same elemental of life"
+title:  "someone soul is a reflection of their life purpose"
 date:   2020-10-11 07:10:59 -0500
 category: 
 tags: humanlearnings

@@ -13,9 +13,6 @@ The second element: character, how do these events change him internally, and ad
 
 As an author, the first challenge is weaving these two together in an interesting yet realistic way from start to finish. Each scene should have a tribulation which leads to a realization and a new path —- which leads directly into the next scene.
 
-The third element is what separates authors from writers: theme. Within the story, this is the common element in all of the scenes, the element which unites them and holds the story together. When done poorly, theme is the message the writer wants to communicate to the reader. I'm not saying the author shouldn't have the intention to communicate something important, something they believe in. Rather, this message shouldn't be obvious to the reader, and he certainally shouldn't feel like he's being taught a lesson. 
+The third element is what separates authors from writers: theme. Within the story, this is the common element in all of the scenes, the element which unites them and holds the story together. 
 
-It's like in our own lives. We aren't living each day with God stopping by to tell us what we are supposed to be learning and thinking about. Instead, we are going about our journeys, and it's only afterwards, when we look back, that we see the patterns. Suddenly, a theme appears. 
-
-<br>
-The art of weaving theme in with the first two I still don't fully understand. But my posts on life's purpose gave me an idea that I want to stick a pin in. [Theme is life's purpose.](https://silencevosh.github.io/2020/10/06/Theme-is-lifes-purpose.html)
+How is this related to life? Plot is the external, the body. Character is the internal, the mind. So that makes theme the soul, the soul of the story. I think this is a useful analogy that I want to explore further. 

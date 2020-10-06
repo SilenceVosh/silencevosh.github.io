@@ -5,11 +5,11 @@ date:   2020-10-06 07:10:59 -0500
 category: 
 tags: humanlearnings
 ---
-Look back at a stage of your life. You will see a whole complete story, a whole saga that you went through. You could see that you were motivated to become an engineer or a high school teacher, or to travel the US, or to find the love of your life. And you could see every setback, every change of course. You could see how this is a whole story on it's own. It could fill a novel.
 
-Can you see a theme, a common purpose or series of learnings, which defines that whole journey? 
+Every story has a message, something to take away from the journey. When done poorly, theme ~is~ the message, and it's obvious the writer is trying to preach this message. I'm not saying the writer shouldn't have the intention to communicate something important and something they believe in. Rather, their message shouldn't be obvious to the reader, and he certainly shouldn't feel like he's being taught a lesson. Instead, theme, when done wisely, only appears at the end of the story, from the story's deathbed, as we reflect on the journey we just went through. 
 
-<br>
-This, however, is one saga in a line of sagas. Your life's purpose is a collection of these stories. And we can't fully understand what that life purpose is until we are looking back at the line of stories. So although life's purpose is driving all of these, we don't see it.
+Likening this to our own lives, each day, we are going about our lives trying to do our best. We experience setbacks and learn, slowly zig-zagging towards an end. The days incrementally add up into life sagas. And the sagas into a life. Only at the end of life, upon reflecting backward, does a pattern emerge. Suddenly, a theme appears. A life purpose.
 
-Life's purpose is the story line you see looking back from your deathbed. Every day living, moment to moment, we never consciously notice this purpose. We just go about our days, learning and zig zagging. Yet, it's always there, running in the background, driving us forward, some common theme of our life.
+<p style="text-align: center;"> * * * </p>
+
+One hack to finding the stories message is to look at the hero's last meanignful decision. Often this symbolizes the theme, and his two paths in life.
