@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "someone soul is a reflection of their life purpose"
-date:   2020-10-11 07:10:59 -0500
+date:   2020-10-12 07:10:59 -0500
 category: 
 tags: humanlearnings
 ---
