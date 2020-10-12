@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What a trailer promises: Devil's Avocate"
+title:  "What a trailer promises: The Devil's Avocate"
 date:   2020-10-12 07:10:59 -0500
 category: 
 tags: storyblink
