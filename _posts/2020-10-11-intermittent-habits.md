@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "intermittent habits"
-date:   2020-10-10 07:10:59 -0500
+date:   2020-10-11 07:10:59 -0500
 category: 
 tags: humanlearnings
 ---
