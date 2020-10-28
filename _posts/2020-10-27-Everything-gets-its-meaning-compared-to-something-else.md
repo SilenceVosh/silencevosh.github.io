@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Everything gets its meaning compared to something else."
+title:  >
+    "Everything gets its meaning compared to something else."
 date:   2020-10-27 07:10:59 -0500
 category: 
 tags: humanlearnings

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Character Blink: Mike, adding layers
+title:  "Character Blink: Mike, adding layers"
 date:   2020-10-28 07:10:59 -0500
 category: 
 tags: storyblink
