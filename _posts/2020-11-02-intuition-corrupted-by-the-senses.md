@@ -13,4 +13,4 @@ Or what natural part of our body grosses us out, or we're uncomfortable with and
 
 Many of these experiences corrupt our senses from experiencing the outer world like we truly want to. 
 
-Next blockage: beliefs.
+Next blockage: [beliefs](https://silencevosh.github.io/2020/11/03/intuition-corrupted-by-beliefs.html)

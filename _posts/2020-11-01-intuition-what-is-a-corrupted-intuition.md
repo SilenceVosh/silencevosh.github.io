@@ -15,4 +15,4 @@ First, what does he mean when he talks about intuition? He says:
 
 So it's a force that can make leaps without thought interfearing. If you are getting ready to go to dinner with your wife and she asks where do you want to eat? Your intuitive answer makes the leap to your real desire, let's say Mexican food, without rationally knowing why. You don't have to weigh the pros and cons, and you don't have to reason a decision. You just know.
 
-A corrupted intuition, then, would be a blockage to that force. Osho laid these blockages; there are five of them that I will go through one at a time, starting with [physical blockages](https://silencevosh.github.io/2020/11/02/intuition-corrupted-by-the-senses.html)
+A corrupted intuition, then, would be a blockage to that force. Osho laid these blockages; there are five of them that I will go through one at a time, starting with [physical blockages.](https://silencevosh.github.io/2020/11/02/intuition-corrupted-by-the-senses.html)
