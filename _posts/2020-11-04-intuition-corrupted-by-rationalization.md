@@ -19,7 +19,7 @@ Or you can go on making excuses, rationalizations, and explanations. It's your l
 
 <br>
 
-<p style="text-align:right;"> Next: Sentimentality. </p>
+<p style="text-align:right;"> Next: [Sentimentality.](https://silencevosh.github.io/2020/11/05/intuition-corrupted-by-sentimentality.html) </p>
 
 
 
