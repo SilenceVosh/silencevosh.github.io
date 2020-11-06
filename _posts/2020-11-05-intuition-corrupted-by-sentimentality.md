@@ -29,4 +29,4 @@ Actually, just days ago, I spent an entire counseling session in this state of p
 
 I'm sorry for the wide ranging and long piece. This morning, I didn't have time to write a shorter one.
 
-<p style="text-align:right;"> Next: Repression. </p>
+<p style="text-align:right;"> Next: [Repression.](https://silencevosh.github.io/2020/11/06/intuition-corrupted-by-repression.html) </p>
