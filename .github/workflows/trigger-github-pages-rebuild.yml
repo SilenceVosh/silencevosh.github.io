@@ -3,7 +3,7 @@ name: Refresh
 
 on:
   schedule:
-    - cron:  '0 9 * * *' # Runs every day at 3am
+    - cron:  '0 10 * * *' # Runs every day at 10am
 
 jobs:
   refresh:
