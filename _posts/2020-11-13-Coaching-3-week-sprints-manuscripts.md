@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Coaching: 3 week sprints, manuscripts"
-date:   2020-11-13 07:10:59 -0500
+date:   2020-11-13 02:23:30 -0600
 category: 
-tags: mistakes&fixes
+tags: professionalwriter
 ---
 I organize my work into three categories: 
 
