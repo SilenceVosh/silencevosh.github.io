@@ -5,7 +5,7 @@ date:   2020-11-11 10:13:59 -0500
 category: 
 tags: mistakes&fixes
 ---
-My last major mistake was also related to how my character learns that he has this superpower to mimic natives. 
+My last major mistake was also related to how my character learns that he has this superpower to mimic natives.
 
 My initial thought was he will notice a difference between a Colombian accent and an Argentine accent, and he will realize, to connect with the natives, you must match their way of speaking. From there, he goes on to pretend that he's a native. Fooling others becomes a game for him, I said.
 
