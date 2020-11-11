@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Characters are not in control."
-date:   2020-11-11 08:55:59 -0500
+date:   2020-11-11 09:55:59 -0500
 category: 
 tags: mistakes&fixes
 ---
