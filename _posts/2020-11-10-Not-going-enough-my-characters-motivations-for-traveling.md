@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Not going enough: my character's motivations for traveling"
-date:   2020-11-09 07:10:59 -0500
+date:   2020-11-10 07:10:59 -0500
 category: 
 tags: mistakes&fixes
 ---
