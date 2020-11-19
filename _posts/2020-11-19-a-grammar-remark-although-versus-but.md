@@ -23,4 +23,4 @@ Although I understood this to mean that the majority of times it's better to use
 
 Sentence2 is good for a journalistic approach, where you want to be direct and confident or you're an authority on an issue. You know what you're going to say, and in your mind, no doubt lingers. It expresses an unwavering progression of thought. "Although I paid for the $1000 VIP pass to the show, they still charged me for popcorn." 
 
-I tend to mostly use loose sentences. I imagine because that's how we think and it feels natural to bounce back and forth as I journey through ideas. But both structures have their use cases. Good writing utilizes both of them. And when in doubt, trusts the ear.
+I tend to mostly use loose sentences. I imagine because that's how we think and it feels natural to bounce back and forth as I journey through ideas. But good writing utilizes both of them. When in doubt, always trust the ear.
