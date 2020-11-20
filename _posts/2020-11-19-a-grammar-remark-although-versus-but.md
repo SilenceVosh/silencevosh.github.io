@@ -3,7 +3,7 @@ layout: post
 title:  "a grammar remark: although versus but"
 date:   2020-11-19 02:23:30 -0600
 category: 
-tags: professionalwriter
+tags: writingconcepts
 ---
 I'm out of my depths to ever say 'Elements of Style', the best book on grammar and writing rules, is flawed. E.B. White, the author, knew more about writing before he graduated beyond writing in crayon than I will know in my lifetime. Yet, one of his rules for writing I never fully understood and I questioned. 
 
