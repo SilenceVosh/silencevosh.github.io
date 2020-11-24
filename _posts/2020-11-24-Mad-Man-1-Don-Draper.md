@@ -3,7 +3,7 @@ layout: post
 title:  "Mad Man #1, Don Draper"
 date:   2020-11-24 02:23:30 -0600
 category: 
-tags: professionalwriter
+tags: storyblink
 ---
 In the TV series Mad Men, even though Don appears to have everything, internally he's deeply flawed and controlled by the pain of his childhood. The core pain that drives him is the feeling that he's alone and lacks a family. Growing up, his mother died in labor, and his father was killed from a kick by a spooked horse. When he became old enough, he enlisted in the army. He served in a war until his comrade is killed on duty. Wanting out and to start a new life, he secretly traded dog-tags. He sacrificed the last traces of his family name and took on the name of the fallen comrade: Don Draper.
 
