@@ -5,7 +5,7 @@ date:   2020-11-26 02:23:30 -0600
 category: 
 tags: professionalwriter
 ---
-In the last post, I stressed how good writing captures the internal mind-state of the subject, [letting you in on their motivations], [what makes them tick], and [why they want what they want]. But that isn't so easy. That writing takes effort and work and patience. And not always do you have that energy or insight. Sometimes, you sit there and watch the cursor blink without any idea where to begin.
+In the last post, I stressed how good writing captures the internal mind-state of the subject, letting you in on their motivations, what makes them tick, and why they want what they want. But that isn't so easy. That writing takes effort and work and patience. And not always do you have that energy or insight. Sometimes, you sit there and watch the cursor blink without any idea where to begin.
 
 > When you don’t know what to do, do a lot. - Tiago Forte
 
