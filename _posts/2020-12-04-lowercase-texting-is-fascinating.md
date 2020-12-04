@@ -16,5 +16,5 @@ The goal of writing I've always thought is to communicate clearly. And although 
 
 <p style="text-align: center;"> * * * </p>
 
-P.S. I've noticed with titles, I generally choose the style on how the text looks. Ifall lowercase fits looks right, I go with that. After seeing this blog posted, I thought it was quite ugly and unappealing. So, I have a thrid rule:
+P.S. I've noticed with titles, I generally choose the style on how the text looks. If all lowercase looks right, I go with that. If punctuation looks right, I go with it. After seeing this blog posted, I thought it was quite ugly and unappealing. So, I have a third rule:
 - rule #3: Trust your eye! 
