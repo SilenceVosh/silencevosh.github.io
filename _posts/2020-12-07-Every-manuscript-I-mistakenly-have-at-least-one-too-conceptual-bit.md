@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Every manuscript I mistakenly have at least one (too) conceptual bit."
+title:  "Every manuscript I mistakenly have at least one bit (too) conceptual."
 date:   2020-12-07
 category: 
 tags: mistakes&fixes
