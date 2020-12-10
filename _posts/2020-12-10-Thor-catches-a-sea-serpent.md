@@ -7,11 +7,6 @@ tags: storyblink
 ---
 Thor, the thunder god, and Hymir, a giant, go on a fishing trip. Thor wanting to catch the biggest fish he could find steers the boat into the deepest and darkest part of the sea. What he ends up facing is Jormundand, a legendary sea serpent. 
 
-![image info](https://raw.githubusercontent.com/SilenceVosh/silencevosh.github.io/master/_posts/assets/images/ThorFishing.jpg "Thor fighting Jormundand")
-
-*Imagine from: [thevikingdragon.com](https://thevikingdragon.com/blogs/news/thor-the-giants-kettle-and-the-midgard-serpent)*
-
-
 {% include image.html url="https://raw.githubusercontent.com/SilenceVosh/silencevosh.github.io/master/_posts/assets/images/ThorFishing.jpg" description="Imagine from: https://thevikingdragon.com/blogs/news/thor-the-giants-kettle-and-the-midgard-serpent" %}
 
 
