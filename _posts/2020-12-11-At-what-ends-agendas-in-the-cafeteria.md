@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "At what ends | agendas in the cafeteria"
+title:  "At what ends | my character's agenda in the cafeteria"
 date:   2020-12-11
 category: 
 tags: mistakes&fixes
