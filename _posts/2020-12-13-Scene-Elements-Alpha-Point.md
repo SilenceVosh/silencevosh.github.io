@@ -17,6 +17,6 @@ Often this bridge is simply what the character learns in the scene, from the eve
 
 A scene in Die Hard will demonstrate this. Hans Gruber, the antagonist, enters the scene motivation to take action on the next step in his hostage plan. After the scene, Hans is no longer focused on the hostages. He learned of a bigger threat. There's an unaccounted person in the building — the wonderful John Mcclane — lurking around the building. That new piece of information propels the plot forward. Without it, Hans would never know about John and we wouldn't have a story since he would freely execute his plan, without any conflict. We would never learn from his brilliance in handling obstacles and outmaneuvering his opponent at every turn. 
 
-***
+<p style="text-align: center;"> * * * </p>
 
 Alpha point is an idea originally from Lisa Cron, Story Genius.
