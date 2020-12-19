@@ -12,7 +12,7 @@ Before the trip, he never even had intentions of making his relationship with hi
 The tipping point moment was at lunch: 
 His daughter spills a milkshake across the table. He lashes out, calling the waitress for napkins in an angry voice. Then he hears Megan in a soothing voice say, “It’s only a milkshake, it’s okay.” Don's head swings around, as he thinks who is this *girl*. 
 
-![image info](https://raw.githubusercontent.com/SilenceVosh/silencevosh.github.io/master/_posts/assets/images/DonFrozen.jpg "Don struck by Love")
+![image info](https://raw.githubusercontent.com/SilenceVosh/silencevosh.github.io/master/_posts/assets/images/DonFrozen.png "Don struck by Love")
 
 Don didn't realize it was possible to react like that. In his previous marriage, his wife was the opposite, a grown up child who constantly over-reacted and couldn't handle these situations. And in this moment, he learns it was never the sex that he truly yearned for. It was this simple reaction that convinced him that Megan was his other half. Rationally, his mind told him that the doctor was perfect for him. Instead this is just knowing she's the one. 
 
