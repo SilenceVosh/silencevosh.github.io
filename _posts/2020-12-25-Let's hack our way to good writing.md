@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hacking our way to good writing"
+title:  "Let's hack our way to good writing."
 date:   2020-12-25
 category: 
 tags: humanlearnings
