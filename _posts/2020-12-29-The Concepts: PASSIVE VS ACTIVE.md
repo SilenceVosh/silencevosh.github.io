@@ -7,17 +7,12 @@ tags: writingconcepts
 ---
 I want to explore how a few writing concepts relate to this mind-shift from story-writing to story-telling. The first concept is the most straight forward: Passive Voice versus Active Voice. These are two different ways you can write any sentence. Active is direct. While passive sort of beats around the bush.
 
-Passive: The ball was hit.
-
-Active: I hit the ball.
-
-Passive: Knives Out is considered the best movie of 2019 by me. 
-
-Active: I considered Knives Out the best movie of 2019.
-
-Passive: While passive sort of beats around the bush.
-
-Active: While passive beats around the bush.
+- Passive: The ball was hit.
+- Active: I hit the ball.
+- Passive: Knives Out is considered the best movie of 2019 by me. 
+- Active: I considered Knives Out the best movie of 2019.
+- Passive: While passive sort of beats around the bush.
+- Active: While passive beats around the bush.
 
 Writers learn this basic rule early on, and now from a story-teller perspective, I see why. It's how we would naturally express the sentence in order to clearly communicate it. It's the simplest way to the point. But during my call, my coach described it in a way I've never heard before. 
 
