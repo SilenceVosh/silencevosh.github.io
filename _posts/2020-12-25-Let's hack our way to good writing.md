@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's hack our way to good writing."
 date:   2020-12-25
-category: 
+category: Manuscript15
 tags: humanlearnings
 ---
 A quick little hack. Next time you're wondering if something should be cut or not, read it with and without and listen for what sounds better. Here's an example, my character was watching his friend, Dave, approach the best basketball player in the country, Tony.

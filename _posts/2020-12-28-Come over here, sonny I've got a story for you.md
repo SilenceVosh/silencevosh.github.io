@@ -2,7 +2,7 @@
 layout: post
 title:  "Come over here, sonny, I've got a story for you."
 date:   2020-12-28
-category: 
+category: Manuscript15
 tags: writingmentalmodels
 ---
 I love listening to Kurt Vonnegut tell stories. When I read one of his books, I'm there in the room with him, sitting cross-legged on the floor as he rocks in his chair. He's grumpy because some war, and wants to tell me why. He begins way back at the beginning. It's a story that he's long forgotten but he tells it as if it's more real than ever. Every so often he has to pause. He coughs into his cigarette.

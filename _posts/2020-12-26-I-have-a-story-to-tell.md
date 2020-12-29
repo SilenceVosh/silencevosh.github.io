@@ -2,7 +2,7 @@
 layout: post
 title:  "I have a story to tell."
 date:   2020-12-26
-category: 
+category: Manuscript15
 tags: writingmentalmodels
 ---
 I just got out of a call with my coach. It went well, learned a lot. My coach really honed in on a few fundamental errors that were consistent throughout my writing. It was like a personal lecture, throughout the entire call, I just sat back and listened to her as she went through one of my scenes, pointing out one error after another. And a pattern emerged. I noticed the mistakes fell under 2 or 3 different categories. Over the next week, I will gather my notes and thoughts into a set of blogs: What I learned from #manuscript15. 

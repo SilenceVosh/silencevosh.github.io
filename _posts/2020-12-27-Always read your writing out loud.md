@@ -3,7 +3,7 @@ layout: post
 title: >
     "Always read your writing out loud."
 date:   2020-12-27
-category: 
+category: Manuscript15
 tags: writingmentalmodels
 ---
 Anyone can benefit from this mind shift, to think you are telling a story to a friend, rather than writing a scene — or a blog or even a text. And where it really shines is when editing. When are stuck on a piece of writing, step back, and ask, how would I *say* this to a friend. 
