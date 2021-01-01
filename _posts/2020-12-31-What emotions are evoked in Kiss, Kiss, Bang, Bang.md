@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "What emotions are evoked in Kiss, Kiss, Bang, Bang?"
-date:   2020-12-31
-category: Manuscript15
+date:   2021-01-01
+category: 
 tags: writingconcepts
 ---
 This movie really tries to hit all the big emotions: action, love, humor, mystery. 
@@ -13,7 +13,3 @@ This movie really tries to hit all the big emotions: action, love, humor, myster
 - Mystery: why are all these dead women showing up and who is behind it?
 
 Overall worth watching next time you're looking for a light adventure.
-
-<p style="text-align: center;"> * * * </p>
-
-This was a backup post. I'm currently scrambling to wrap up 2020, and I don't want to rush the next blog post. Talk in 2021!
