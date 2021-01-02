@@ -18,7 +18,7 @@ Writers learn this basic rule early on, and now from a story-teller perspective,
 
 I had written, "I laughed making it impossible to say goodbye and walk away." She told me this could be a lot stronger. It becomes active if you write, "I laughed and realized I wasn't going to walk away." This is now a decision the story-teller has made. "I decided I'm staying," he says. This decision not only is clearer and visual, but it carries more weight and consequences. 
 
-I used to write "The ball was hit," thinking that it was closer to the action. But I'm starting to notice when I read sentences like that, I want to scream, JUST TELL ME WHAT HAPPENS. More on this in the next post: [Intimating vs Telling.]()
+I used to write "The ball was hit," thinking that it was closer to the action. But I'm starting to notice when I read sentences like that, I want to scream, JUST TELL ME WHAT HAPPENS. More on this in the next post: [Intimating vs Telling.]((https://silencevosh.github.io/2021/01/02/TheConceptsINTIMATEVSTELL.md))
 
 <p style="text-align: center;"> * * * </p>
 
