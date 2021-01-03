@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Concepts: INTIMATE VS TELL"
-date:   2021-01-01
+date:   2021-01-02
 category: 
 tags: writingconcepts
 ---
