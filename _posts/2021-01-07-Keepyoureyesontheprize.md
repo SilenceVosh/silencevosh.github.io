@@ -12,14 +12,12 @@ And throughout the scene you must repeat this promise to the reader. Often scene
 Let's take a look at my scene about the boys approaching the college basketball player. This is how this would work.
 
 What matters in this scene?
-
 - Josh promised his girlfriend that he'll go to the library. But instead Josh goes to the cafeteria with Dave.
 - Dave convinced him to come because Dave wanted him to wingman. Today Dave wants to go talk to a girl he has a crush on, Powder.
 - Josh says afterwards he'll go straight to the library.
 - Another reason he shouldn't be with Dave is that Josh's girlfriend thinks Dave is an asshole, and doesn't like Josh hanging out with him.
 
 The prize the boys are chasing after:
-
 - Dave wants to meet Powder.
 - Josh wants to wingman him.
 
@@ -36,13 +34,11 @@ When we had walked into the cafeteria I had seen a dozen of my friends; at the h
 How does this work on the page? How do we write our scene while subtlety reminding the reader that we are making progress towards that prize? Here are a few examples:
 
 “Dude,” I nudged Dave who was fixed on Powder, still hadn’t looked around the room. He said something about a seat at her table opened up. “Dude.” I nudged again.
-
 - This could have easily been written without "He said something about a seat at her table opened up." But it's in that line that the promise of the prize is reminded to the reader, we are reminding that we are getting closer to Powder.
 
 One more, but now focused on Josh's internal prize, him answering the question, is Dave an asshole like his girlfriend thinks?
 
 Carter made a joke about Dave who was too focused on Powder to slow down, bee-lining towards the back of the cafeteria. Carter doesn’t seem to think Dave is an asshole. Maybe Sue’s wrong about that.
-
 - First Dave physically moving towards the prize.
 - Secondly, Josh wonders, well Carter who I respect seems to like Dave. So maybe he isn't such a bad guy.
 
