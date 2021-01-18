@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What I learned about productivity in 2020: Workflow, sitting down to work"
+title:  "What I learned about productivity in 2020: Workflow, starting a session"
 date:   2021-01-16
 category: 
 tags: humanlearnings
