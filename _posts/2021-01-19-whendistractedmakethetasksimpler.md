@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "when distracted, make the task simpler"
+title:  "What I learned about productivity in 2020: when distracted, make the task simpler"
 date:   2021-01-19
 category: 
 tags: humanlearnings
