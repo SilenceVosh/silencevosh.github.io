@@ -16,7 +16,7 @@ I spent the majority of my writing time on my current novel in progress, and I m
 
     Could it be, say **he's afraid to go out outside, he fears that crossing the street or walking down a staircase will cause the world to end? Yes!** Now, we have a full story. He must overcome that.
 
-<br>And there he goes, down the bridge, where he fights his fear of heights, empowered by his fear of losing his loved one. And he's okay! He made it. Not only that, but it was easier than he thought. Yes, his palms are sweaty, but he made it. Upon realizing it wasn't so bad, he leaves the ring, sprints back across the bridge and to his wife. He's a changed man. He tells her let's not waste our time with marriage and have a baby now. She sees the new flame inside of him and they live happily ever after.
+And there he goes, down the bridge, where he fights his fear of heights, empowered by his fear of losing his loved one. And he's okay! He made it. Not only that, but it was easier than he thought. Yes, his palms are sweaty, but he made it. Upon realizing it wasn't so bad, he leaves the ring, sprints back across the bridge and to his wife. He's a changed man. He tells her let's not waste our time with marriage and have a baby now. She sees the new flame inside of him and they live happily ever after.
 - And what theme arose, naturally, out of that? You're stronger than you realize. And we can drive this theme home, by making his internal dialogue around this. "What if you just take one step onto the bridge." He steps. "That's not so bad." And in the end: "That was easy! What more can I do!"
 
 That was an easy challenge! What more can I do!
