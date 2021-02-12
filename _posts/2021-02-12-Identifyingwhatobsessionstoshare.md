@@ -5,7 +5,7 @@ date:   2021-02-12
 category: 
 tags: professionalwriter
 ---
-Last blog post I listed what I obsess over, which was a list of [six things that came to mind](https://silencevosh.github.io/2021/02/12/WhatdoyouobsessoverSharethat.html). Now the question is how to share these. One method is just to speak on bits and pieces of each of these and see what comes of it. This would be a generalist approach, talking about all your obsessions. Would it be better to focus on just one of these? [Tim Ferriss says]([https://www.youtube.com/watch?v=wCPbPMRNnvk](https://www.youtube.com/watch?v=wCPbPMRNnvk)): "Should you be a specialist or a generalist? Be a specialized generalist."
+Last blog post I listed what I obsess over, which was a list of [six things that came to mind](https://silencevosh.github.io/2021/02/11/WhatdoyouobsessoverSharethat.html). Now the question is how to share these. One method is just to speak on bits and pieces of each of these and see what comes of it. This would be a generalist approach, talking about all your obsessions. Would it be better to focus on just one of these? [Tim Ferriss says]([https://www.youtube.com/watch?v=wCPbPMRNnvk](https://www.youtube.com/watch?v=wCPbPMRNnvk)): "Should you be a specialist or a generalist? Be a specialized generalist."
 
 He recommends you to combine two skills that are valuable and rare together. (Thus becoming even more valuable and rare.) Like a computer science degree and a law degree. Or extreme knowledge in finance and in computer science. When you do that you find this rare niche that others can learn from and integrate into their lives.
 
