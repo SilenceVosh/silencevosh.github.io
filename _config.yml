@@ -24,12 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Live by the harmless untruths that make you brave and kind and healthy and happy. - Kurt Vonnegut
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://silencevosh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+twitter_username: avminnesota
 # github_username:  jekyll
 
 # Fields minima iuses, but are not defaulted
 author: Silence
-youtube_username: _____
+#youtube_username: _____
 
 # NOT defualted by jekyll
 # must add these into .html files. Ex footer.html
