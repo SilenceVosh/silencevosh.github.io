@@ -18,7 +18,6 @@ Emotion Thesauruses describe emotions in helpful ways for writers. They are wond
 
 But a list like this of easy copy-and-pastes is dangerous. Reading these, it's tempting to write
 >He leaned in, his heart racing in his chest for what's to come
-
 <br>This sentence is generic, and without any note reminding us this sentence is copy-and-pasted, it's easy for a sentence like that to get lost in the block of text making up the chapter. 
 
 ## My Proposed Solutions
