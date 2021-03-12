@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Daily writings from Silence
-email: silence.vosh@gmail.com
+title: Daily writings from A.V. Minnesota
+email: avminnesota1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Live by the harmless untruths that make you brave and kind and healthy and happy. - Kurt Vonnegut
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://silencevosh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://avminnesota.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: avminnesota
 # github_username:  jekyll
 
 # Fields minima iuses, but are not defaulted
-author: Silence
+author: A.V. Minnesota
 #youtube_username: _____
 
 # NOT defualted by jekyll
