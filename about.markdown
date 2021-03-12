@@ -10,4 +10,4 @@ At the start of the year, I began working with a story coach. Along with her, I 
 
 Each time, I learn a little more about writing theory, about managing being a writer, and about myself as a human in this crazy world. Each time I get closer to becoming an author. The first few manuscripts, I flailed my arms about, splashing water around every which way, just praying I'll make it to the next manuscript. Now, after four months, although my arms are still flailing, they're in a rhythm; I stay afloat. And as I can finally poke my chin in the air and breathe, I'm inspired to share this journey.
 
-<span style="font-family: monospace; font-size: 25px"> Minnesota </span>
+<span style="font-family: Lucida Sans Typewriter; font-size: 25px"> Minnesota </span>
