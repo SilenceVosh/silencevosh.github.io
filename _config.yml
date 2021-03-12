@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Daily writings from A.V. Minnesota
+title: Daily writings from Minnesota
 email: avminnesota1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Live by the harmless untruths that make you brave and kind and healthy and happy. - Kurt Vonnegut
@@ -33,7 +33,7 @@ author: A.V. Minnesota
 
 # NOT defualted by jekyll
 # must add these into .html files. Ex footer.html
-copyright: "Silence LLC"
+copyright: "A.V. Minnesota LLC"
 
 # 50 px high is best for minima
 # title-logo: /images/title-logo.png
