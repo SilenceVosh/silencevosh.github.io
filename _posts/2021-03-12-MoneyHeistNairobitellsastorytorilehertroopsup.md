@@ -21,4 +21,4 @@ She then describes other teammates who are upstairs. "Palermo, Helsinki and Stoc
 
 Previously the men in the basement told themselves "there's a lunatic coming to kill us, we must defend ourselves." After Nairobi's speech, a different story rotated through their head, "I'm scared. My team is sacred. But each of us has a duty. Come what may." 
 
-And they unstrapped the m16s, tied on the leather apron, and began hammering away on gold bars.
+And they unstrapped the m16s, tied on the leather aprons, and began hammering away on gold bars.
