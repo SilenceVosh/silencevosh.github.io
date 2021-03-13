@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Money Heist: Nairobi tells a story to rile her troops up"
+title:  "La Casa de Papel: Nairobi tells a story to rile her troops up"
 date:   2021-03-12
 category: 
 tags: likestoriesofold
