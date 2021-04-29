@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-     <span class="post-meta">The blog temporarily on pause. Will be back July 2021.</span>
+    <span class="post-meta" style="font-weight: bold;">The blog temporarily on pause. Will be back July 2021.</span>
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
